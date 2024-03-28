@@ -18,5 +18,6 @@ int main() {
         if(middle - day_count <= 30)
         month = i;
     }
+    
     return 0;
 }
