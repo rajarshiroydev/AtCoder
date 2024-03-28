@@ -10,4 +10,5 @@ int main() {
     my_str.erase(remove(my_str.begin(), my_str.end(), 'u'), my_str.end());
     cout << my_str;
     return 0;
+    
 }
